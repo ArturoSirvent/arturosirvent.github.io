@@ -1,8 +1,9 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: true
 header:
-  image: "/images/Great_Wave_off_Kanagawa2.jpg"
+  image: "gran_ola_kanagagua.jpg"
 ---
 
 I am physics student at the University of Granada (Spain) that was born in Alicante (Spain).
