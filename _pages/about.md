@@ -2,9 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/Great_Wave_off_Kanagawa2.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I am physics student at the University of Granada (Spain) that was born in Alicante (Spain).
+I have the intention to continue studing about physics but in a more computational way, because
+I am mainly interested in the oportunities that data analysis and AI can offer.
