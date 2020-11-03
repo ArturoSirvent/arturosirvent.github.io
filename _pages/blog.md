@@ -1,6 +1,7 @@
 ---
 title: "Blog"
 permalink: /blog/
+author_profile: true
 header:
   image: "/images/Great_Wave_off_Kanagawa2.jpg"
 ---
