@@ -1,10 +1,8 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /code_snippets/
+title: "Small Code Snippets"
 author_profile: true
-header:
-  image: "/images/fort point.png"
 ---
 
 
