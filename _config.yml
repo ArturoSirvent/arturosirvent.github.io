@@ -88,7 +88,7 @@ author:
   avatar           : "/images/micarabien_recortada.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Physics student in the University of Granada (Spain)"
   location         : "Granada (Spain)"
-  email            :
+  email            :  arturosirvent@outlook.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
