@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: "Blog"
+title: "Blog posts"
 permalink: /blog/
 author_profile: true
 
 ---
-Entries of the blog
+
