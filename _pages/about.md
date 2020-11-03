@@ -1,7 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-author_profile: true
 header:
   image: "gran_ola_kanagagua.jpg"
 ---
