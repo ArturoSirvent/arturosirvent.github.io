@@ -1,8 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "images/gran_ola_kanagagua.jpg"
+
 ---
 
 I am physics student at the University of Granada (Spain) that was born in Alicante (Spain).
