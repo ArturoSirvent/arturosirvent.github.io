@@ -4,4 +4,5 @@ permalink: /cv/
 author_profile: true
 ---
 
-El curriculum <a href="/cv/curriculum.pdf" download>EL CURRICULUM</a>
+My CV can be downloaded <a href="/cv/cv_esquematico_arturosirvent.pdf" download>here</a>.
+
