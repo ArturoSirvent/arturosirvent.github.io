@@ -44,13 +44,15 @@ Computer Skills
   + Canva
   + R
   
-# Social Skills
+Social Skills
+======
 * Facility in personal communication and educational skills (personal professor experience).
 * Good performance under pressure.
 * Considerable tolerance to job excess.
 * Special ability for self learning and new topics research.
   
-# Other Skills
+Other Skills
+======
 Interests in computer architecture and electronics. 
 Experience in projects with:
 * Arduino
