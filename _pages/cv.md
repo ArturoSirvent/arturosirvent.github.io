@@ -11,8 +11,8 @@ My CV can be downloaded <a href="/cv/cv_esquematico_arturosirvent.pdf" download>
 
 Education
 ======
-* Degree in Physics (2016 - now). University of Granada (Spain).
-  + Erasmus+ en Wuppertal (Germany) (2018-2019).
+* Degree in Physics (2016 - now) in University of Granada (Spain).
+  + Erasmus+ in Wuppertal (Germany) (2018-2019).
 * Course: Godot Game Engine (2018).
 * Course: C++ advanced programming methods (2018).
 * Course: Scientific programming in Python (2017).
