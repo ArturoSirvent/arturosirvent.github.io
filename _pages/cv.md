@@ -29,7 +29,7 @@ Computer Skills
   + Excel
   + Git/GitHub.
 * Good knowledge in:
-  +JavaScript (p5.js)
+  + JavaScript (p5.js)
   + Java (Processing)
   + Godot
   + Photoshop (Gimp)
