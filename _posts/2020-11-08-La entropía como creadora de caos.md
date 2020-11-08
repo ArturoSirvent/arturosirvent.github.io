@@ -1,4 +1,5 @@
-*Arturo Sirvent Fresneda*  
+*Arturo Sirvent Fresneda*
+
 **25/05/2020**
 
 **La entropia como creadora de caos**  
@@ -79,7 +80,7 @@ muestra porqué es más probable observar el estado en unos macroestados
 que en otros, es basicamente por la gran cantidad de microestados
 compatibles.
 
-![image](/images/entropia/a4.png)
+![image](/images/entropia/A4.png)
 
 Hace también una apreciación muy interesante, dado un microestado, con
 una configuración muy peculiar como podría ser la forma de un cocodrilo
