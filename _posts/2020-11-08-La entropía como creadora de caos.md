@@ -49,14 +49,14 @@ condiciones externas reaccionan y toman una configuración. Se ven
 claramente influenciados por sus condiciones, que podríamos decir que
 ahora es un campo magnetico muy fuerte.
 
-![image](/images/a1.png)
+![image](/images/entropia/a1.png)
 
 Sin embargo si relajamos las ligaduras del sistema y le dejamos que
 evolucione libre, vemos que adopta nuevas configuraciones(por ejemplo
 aquí cambian mas o menos la mitad de ellos) , que antes no veíamos o
 veíamos muy raramente.
 
-![image](/images/a2.png)
+![image](/images/entropia/a2.png)
 
 Ahora tenemos muchas configuraciones posibles compatibles con nuestro
 macroestado.  
@@ -64,7 +64,7 @@ Esta es nuestra colectividad, el conjunto de todas ellas, **siendo
 además todas equiprovables** por el principio de igual probabilidad a
 priori.
 
-![image](/images/a3.png)
+![image](/images/entropia/a3.png)
 
 Tenemos muchas muchas más de las que aparecen aquí. Entre ellas estan
 tanto la que esta completamente alineada (todas las flechas UP), como la
@@ -79,13 +79,13 @@ muestra porqué es más probable observar el estado en unos macroestados
 que en otros, es basicamente por la gran cantidad de microestados
 compatibles.
 
-![image](/images/A4.png)
+![image](/images/entropia/A4.png)
 
 Hace también una apreciación muy interesante, dado un microestado, con
 una configuración muy peculiar como podría ser la forma de un cocodrilo
 o un dragón.
 
-![image](/images/a5.png)
+![image](/images/entropia/a5.png)
 
 Esta configuración no nos parece desordenada, pero sin embargo tiene una
 alta entropía, esto es debido a la que esta configuración es una de las
@@ -100,36 +100,36 @@ temperatura es una constante del sistema, pero la energía de nuestro
 sistema ya no es constante, lo que si es constante es la energía media,
 (la energía interna) \(<E>\).
 
-![image](/images/a6.png)
+![image](/images/entropia/a6.png)
 
 Esto último supone una restricción sobre nuestro sistema, de la misma
 forma que lo suponía el campo magnético en el ejemplo de los spines, no
 siempre será posible alcanzar la entropía máxima la cual se alcanza en
 ausencia de restricciones.  
 El nuevo valor que obtiene un máximo es la entropía menos \(<E>/T\),
-esto lo deducimos de la termodinámica. \[S-\frac{<E>}{T}\]
+esto lo deducimos de la termodinámica. $$S-\frac{<E>}{T}$$
 
-![image](/images/a7.png)
+![image](/images/entropia/a7.png)
 
 ## Energía libre en un sistema isotermo:
 
 Recordemos que nuestro sistema es isotermo y tenemos dos constantes
-limitándonos los estados accesibles. \[T=cte\] \[<E>=cte\] De la
+limitándonos los estados accesibles. $$T=cte$$ $$<E>=cte$$ De la
 termodinámica también sabíamos que el calor tenía esta expresión:
-\[Q=TS\] Si sustituimos en la expresion queda: \[\frac{Q-<E>}{T}\]
+$$Q=TS$$ Si sustituimos en la expresion queda: $$\frac{Q-<E>}{T}$$
 
 En el artículo de Jose A. Cuesta se indica muy acertadamente que *"si no
 hay restricciones se maximiza \(Q\), si hay restricciones lo que se
 maximiza es \(Q- <E>\)".*  
 El término del numerador (\(\frac{Q-<E>}{T}\)) es justamente (menos) la
-energía libre de Helmholtz \((F)\). \[Q-<E>=-F\] Básicamente se
+energía libre de Helmholtz \((F)\). $$Q-<E>=-F$$ Básicamente se
 interpreta como la parte de energía del sistema que puede convertirse en
 trabajo.
 
 De esta expresión podemos hacer la siguiente apreciación para un sistema
 isotermo:
 
-![image](/images/a8.png)
+![image](/images/entropia/a8.png)
 
 Esto supone que un aumento de la entropía implica (recordemos que T es
 constante) un aumento del calor y una disminución de la energía libre
@@ -163,8 +163,8 @@ una disposición geométrica que minimiza fuerzas de interacción etc...
 (Además recordeos que cada fase del sistema tiene sus variables. \(S\),
 \(F\), \(<E>\equiv E\)).
 
-![image](/images/a9.png) ![image](/images/a10.png)
-![image](/images/a11.png)
+![image](/images/entropia/a9.png) ![image](/images/entropia/a10.png)
+![image](/images/entropia/a11.png)
 
 Aqui vemos unos ejemplos de lo que podría clasificarse como desordenado
 *(izquierda)* y lo que podría entenderse por ordenado *(centro y
@@ -174,20 +174,20 @@ ahora.
 Ahora definidmos las diferencias de las contidades \(S\), \(F\),
 \(<E>\equiv E\) entre la fase inicial (desordenada) y la fase final
 (ordenada) (esta electrión ha sido arbitraria, pero ahora tenemos que
-ser consecuentes). \[\Delta E = E_{O}-E_{d}\] \[\Delta F = F_{O}-F_{d}\]
-\[\Delta S = S_{O}-S_{d}\] Usando la ecuación conocida de la energía
+ser consecuentes). $$\Delta E = E_{O}-E_{d}$$ $$\Delta F = F_{O}-F_{d}$$
+$$\Delta S = S_{O}-S_{d}$$ Usando la ecuación conocida de la energía
 libre \(F=E-TS\), podemos expresar una relación sencilla entre las
-diferencias. \[\Delta F=\Delta E-T\Delta S\]
+diferencias. $$\Delta F=\Delta E-T\Delta S$$
 
 Ahora nuestro objetivo es revisar las posibles
 combinaciones.*(Recordemos que el estado final es el ordenado.)*
 
-![image](/images/a12.png)
+![image](/images/entropia/a12.png)
 
 Si la fase ordenada (final) tiene menor energía libre entonces es más
-favorable/propicia el estar en la fase ordenada. \[\Delta F <0\]
+favorable/propicia el estar en la fase ordenada. $$\Delta F <0$$
 
-Si es positiva la difetencía es positiva: \[\Delta F>0\] es debido a que
+Si es positiva la difetencía es positiva: $$\Delta F>0$$ es debido a que
 F a aumentado y eso lo hace menos favorable el cambiar de fase a la fase
 ordenada.  
   
@@ -216,9 +216,9 @@ suceder), en términos generales este es el origen termodinamico de las
 transiciones de fase.  
   
 Pero que pasa en el caso que no haya interacción entre los componentes:
-\[\Delta E=0\] Ahora tenemos: \[\Delta F = -T \Delta S\] Pues la única
-alternativa para la cristalización \((\Delta F<0)\) es : \[\Delta S>0\]
-\[S_O>S_d\] Que la entropía en la fase ordenada sea mayor que la de la
+$$\Delta E=0$$ Ahora tenemos: $$\Delta F = -T \Delta S$$ Pues la única
+alternativa para la cristalización \((\Delta F<0)\) es : $$\Delta S>0$$
+$$S_O>S_d$$ Que la entropía en la fase ordenada sea mayor que la de la
 fase desordenada. Esto es lo que hemos estado buscando desde el
 principio, vamos a ver como puede lograrse esto mediante un ejemplo
 concreto.
@@ -232,24 +232,24 @@ ordenen y esto aumente la entropía.
   
 Si las tenemos en un volumen, el espacio libre para colocar otra esfera
 **no** es el volumen total menos el volumen que ocupa cada esfera:
-\[V-N*\nu_{esfera}\]
+$$V-N*\nu_{esfera}$$
 
 Pues las esferas son objetos rígidos y no podríamos moldearlo para que
 cupiera en dicho espacio. debe haber una region de espacio para que la
 esfera se coloque propiamente.
 
-![image](/images/a13.png)
+![image](/images/entropia/a13.png)
 
 Por ejemplo en esta imagen, **no** cabría otra esfera.
 
 Tenemos una zona entorno a cada esfera, donde no cabe otra (otro centro
 de esfera), pues solaparían:
 
-![image](/images/a14.png)
+![image](/images/entropia/a14.png)
 
 De forma que el espacio realmente accesible es:
 
-\[V-N*\nu_{esfera}^*\]
+$$V-N*\nu_{esfera}^*$$
 
 con esa \(\nu_{esfera ^*}\) el volumen de la esfera de radio doble.
 
@@ -261,7 +261,7 @@ el tamaño de las esferas (coloides)).
 Pero, ¿y si están cerca??  
 Pues cuando se acercan, el área prohibida se solapa.
 
-![image](/images/a15.png) ![image](/images/a16.png)
+![image](/images/entropia/a15.png) ![image](/images/entropia/a16.png)
 
 De modo que si la densidad de esferas es alta y empiezan a juntarse de
 la manera correcta (de aquí viene nuestra defición concreta de orden),
@@ -289,7 +289,7 @@ esferas se hagan mas grande porque bajamos la temperatura, los radios
 aumentaran y las esferas / partículas / moléculas se reordenarán de una
 manera geométrica que minimize sus interacciones.* </span>
 
-![image](/images/a17.png) ![image](/images/a18.png)
+![image](/images/entropia/a17.png) ![image](/images/entropia/a18.png)
 
 *En esta imagen vemos como el radio efectivo de exclusión es mayor
 conforme baja la temperatura pues la energía cinética de las partículas
@@ -307,7 +307,7 @@ principio de maximizar la entropía.
 Imaginemos que tenemos dos componentes posibles, esferas grandes y
 esferas pequeñas.
 
-![image](/images/a19.png)
+![image](/images/entropia/a19.png)
 
 La mezcla de ambas tiene mayor entropía que ambas separadas (fenómeno
 estudiado por Gibbs), pues supone mas microestados. Pero por otro lado,
@@ -321,7 +321,7 @@ a la separación de ambos componentes.**
 La solución es que el balance final dependerá de las densidades de ambos
 componentes.
 
-![image](/images/a20.png) ![image](/images/a21.png)
+![image](/images/entropia/a20.png) ![image](/images/entropia/a21.png)
 
 Podemos observar dos casos concretos, el primero *(izquierda)*, tenemos
 densidad de esferas pequeñas baja luego el sistema se mezcla. En la
@@ -331,7 +331,7 @@ hace segregar las esferas grandes, induce una separación de estados.
 Como curiosidad mencionar el efecto de la **convección granular** o más
 técnico **segregación por tamaño en un medio granular vibrante**:
 
-![image](/images/a22.png)
+![image](/images/entropia/a22.png)
 
 Bueno basicamente es esto que se ve en la imagen, al agitar el medio,
 este se reordena. Esto no es exactamente lo que estamos tratando en este
@@ -346,7 +346,7 @@ Esto que vamos a ver a continuación es un ejemplo concreto como el de
 las bolas de diferente radio. Vamos a estudiar en este caso discreto
 como son las intereacciones entrópicas entre los componentes.
 
-![image](/images/a23.png)
+![image](/images/entropia/a23.png)
 
 Se trata de modelar un sistema como el que hemos comentado con dos tipos
 de partículas. Tenemos los cuadrados y los rombos.  
@@ -359,23 +359,23 @@ artículo de José A. Cuesta. Vamos a indicar nada mas que las
 expresiones clave.  
 Usamos el formalimos macrocanónico como hemos indicado:
 
-![image](/images/a24.png)
+![image](/images/entropia/a24.png)
 
 Tras hacer unas manipulaciones obtenemos esta nueva forma para la
 funcion de partición macrocanónica (los terminos iniciales son las
 fugacidades):
 
-![image](/images/a25.png)
+![image](/images/entropia/a25.png)
 
 Despejando \(M({n_i})\) y haciendo unos cuantos cambios de variable para
 que se nos haga mas facil la comparacion con el *gas de red de Ising*:
 
-![image](/images/a26.png)
+![image](/images/entropia/a26.png)
 
 Podemos estudiar la fenomenología de este caso a partir del modelo
 ferromagnetico de Ising cuya funcion de partición es:
 
-![image](/images/a27.png)
+![image](/images/entropia/a27.png)
 
 Tras hacer la comparación con dicho modelo ferromagnético obtenemos las
 siguientes conclusiones:
@@ -419,14 +419,14 @@ coexistencia de fases rombo / cuadrado, dejamos al sistema evolucionar
 desde un estado en que los cuadrados se encuentran solitarios y muy
 repartidos:
 
-![image](/images/a28.png) ![image](/images/a29.png)
+![image](/images/entropia/a28.png) ![image](/images/entropia/a29.png)
 
 Tras dejar que evolucione un tiempo, vemos como se forman cúmulos de
 cuadrádos como si se atrajeran *(derecha)*.
 
 Aquí vemos otra simulación:
 
-![image](/images/a30.png) ![image](/images/a31.png)
+![image](/images/entropia/a30.png) ![image](/images/entropia/a31.png)
 
 De nuevo podemos ver como se produce este efecto de acumulacion en
 grupos.
