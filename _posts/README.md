@@ -1,3 +1,5 @@
+Plantilla
+formato nombre: 2020-01-03-code_snippets.md
 ---
 title: "Code Snippets"
 date: 2018-01-28
