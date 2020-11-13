@@ -108,7 +108,7 @@ promedio.**no podemos guiarnos por un concepto intuitivo de entropía**.
 Si nuestro sistema se encuentra en un baño térmico, entonces la
 temperatura es una constante del sistema, pero la energía de nuestro
 sistema ya no es constante, lo que si es constante es la energía media,
-(la energía interna) $<E>$.
+(la energía interna) $$<E>$$ .
 
 ![image](/images/entropia/a6.png)
 
@@ -116,7 +116,7 @@ Esto último supone una restricción sobre nuestro sistema, de la misma
 forma que lo suponía el campo magnético en el ejemplo de los spines, no
 siempre será posible alcanzar la entropía máxima la cual se alcanza en
 ausencia de restricciones.  
-El nuevo valor que obtiene un máximo es la entropía menos $<E>/T$,
+El nuevo valor que obtiene un máximo es la entropía menos $$<E>/T$$,
 esto lo deducimos de la termodinámica. $$S-\frac{<E>}{T}$$
 
 ![image](/images/entropia/a7.png)
@@ -129,9 +129,9 @@ termodinámica también sabíamos que el calor tenía esta expresión:
 $$Q=TS$$ Si sustituimos en la expresion queda: $$\frac{Q-<E>}{T}$$
 
 En el artículo de Jose A. Cuesta se indica muy acertadamente que *"si no
-hay restricciones se maximiza $Q$, si hay restricciones lo que se
-maximiza es $Q- <E>$".*  
-El término del numerador ($\frac{Q-<E>}{T}$) es justamente (menos) la
+hay restricciones se maximiza $$Q$$, si hay restricciones lo que se
+maximiza es $$Q- <E>$$. 
+El término del numerador ($$\frac{Q-<E>}{T}$$) es justamente (menos) la
 energía libre de Helmholtz $(F)$. $$Q-<E>=-F$$ Básicamente se
 interpreta como la parte de energía del sistema que puede convertirse en
 trabajo.
@@ -170,8 +170,8 @@ Vamos a definir que tenemos dos estados, uno ordenado y uno desordenado,
 como ya hemos indicado ¿que es ordenado?, bueno por ahora vamos a
 suponer una configuración intuitiva en la que hay equidistanciamiento o
 una disposición geométrica que minimiza fuerzas de interacción etc...
-(Además recordeos que cada fase del sistema tiene sus variables. $S$,
-$F$, $<E>\equiv E$).
+(Además recordeos que cada fase del sistema tiene sus variables. $$S$$,
+$$F$$, $$<E>\equiv E$$).
 
 ![image](/images/entropia/a9.png) ![image](/images/entropia/a10.png)
 ![image](/images/entropia/a11.png)
@@ -181,8 +181,8 @@ Aqui vemos unos ejemplos de lo que podría clasificarse como desordenado
 derecha)*. Repetimos, es un poco arbitrario este concepto de orden por
 ahora.  
   
-Ahora definidmos las diferencias de las contidades $S$, $F$,
-$<E>\equiv E$ entre la fase inicial (desordenada) y la fase final
+Ahora definidmos las diferencias de las contidades $$S$$, $$F$$,
+$$<E>\equiv E$$ entre la fase inicial (desordenada) y la fase final
 (ordenada) (esta electrión ha sido arbitraria, pero ahora tenemos que
 ser consecuentes). $$\Delta E = E_{O}-E_{d}$$ $$\Delta F = F_{O}-F_{d}$$
 $$\Delta S = S_{O}-S_{d}$$ Usando la ecuación conocida de la energía
@@ -215,11 +215,11 @@ energía interna del sistema se minimiza en un estado ordenado debido a
 que los componentes se posicionan de una forma más óptima. También
 podemos suponer que en el caso típico, esto supone una reducción de los
 microestados posibles, y se reduce la entropía.  
-Tenemos por un lado a la energía contribuyendo a que $\Delta F$ sea
+Tenemos por un lado a la energía contribuyendo a que $$\Delta F$$ sea
 negativo a la entropía contribuyendo a que sea positivo.  
 Hay muchas comportamientos posibles, pero aquí viene lo interesante, si
 reducimos la temperatura, el segundo miembro se hace muy pequeño
-$(T \Delta S)$ y $\Delta E$ logra que $\Delta F$ sea negativo
+$$(T \Delta S)$$ y $$\Delta E$$ logra que $$\Delta F$$ sea negativo
 (esto no es valido siempre pues puede que Delta E tambien dependa de la
 temperatura y se contrarresten excepto para $T=0$, pero puede no
 suceder), en términos generales este es el origen termodinamico de las
@@ -261,7 +261,7 @@ De forma que el espacio realmente accesible es:
 
 $$V-N*\nu_{esfera}^*$$
 
-con esa $\nu_{esfera ^*}$ el volumen de la esfera de radio doble.
+con esa $$\nu_{esfera ^*}$$ el volumen de la esfera de radio doble.
 
 Fuera de los radios de exclusión sí podemos añadir otra esfera. (Estamos
 ignorando los efectos de estar en un contenedor finito, pero no pasa
@@ -377,7 +377,7 @@ fugacidades):
 
 ![image](/images/entropia/a25.png)
 
-Despejando $M({n_i})$ y haciendo unos cuantos cambios de variable para
+Despejando $$M({n_i})$$ y haciendo unos cuantos cambios de variable para
 que se nos haga mas facil la comparacion con el *gas de red de Ising*:
 
 ![image](/images/entropia/a26.png)
