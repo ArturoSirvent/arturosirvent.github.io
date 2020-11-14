@@ -21,9 +21,11 @@ $$ A = M a$$
 Also we should know that a neural network with no activation function (non-linear functions) can be seen as a linear combination of the inputs.
 *(Even if the NN has more than one layer, the whole proccess can be summed up to a one layer NN without activation functions.)*
 
-![][https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FOne-layer-neural-network-and-nomenclature-employed_fig1_221079407&psig=AOvVaw2NicU6jefsYqtWul3UfCYE&ust=1605444212708000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKifoLeIgu0CFQAAAAAdAAAAABAD]
+![][`https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FOne-layer-neural-network-and-nomenclature-employed_fig1_221079407&psig=AOvVaw2NicU6jefsYqtWul3UfCYE&ust=1605444212708000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKifoLeIgu0CFQAAAAAdAAAAABAD `]
 
-That is why  
+That is why we use just one fully connected layer and no activation function is needed.
+
+**The implementation is as follows:**
 
 
 
